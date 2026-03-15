@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inventory-manager-fe/static/css/main.a9a44919.css",
+    "main.js": "/inventory-manager-fe/static/js/main.d0a913c5.js",
+    "index.html": "/inventory-manager-fe/index.html",
+    "main.a9a44919.css.map": "/inventory-manager-fe/static/css/main.a9a44919.css.map",
+    "main.d0a913c5.js.map": "/inventory-manager-fe/static/js/main.d0a913c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9a44919.css",
+    "static/js/main.d0a913c5.js"
+  ]
+}
